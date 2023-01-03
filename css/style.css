@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-image: url('../images/banner.jpg');
+    height: 600px;
+    color: #969191;
+    background-color: #703131;
+    background-blend-mode: multiply;
+}
+
+.left{
+    width: 50%;
+    background-color: red;
+    /* display: inline; */
+    
+}
+
+form{
+    width: 50%;
+    background-color: goldenrod;
+    
+}
